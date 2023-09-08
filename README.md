@@ -9,6 +9,7 @@ Weights can be downloaded from https://www.robots.ox.ac.uk/~albanie/pytorch-mode
 
 ## Notes
 For VGGFace not VGGFace2.
+
 Only modification was the addition of the missing softmax.
 
 # References
