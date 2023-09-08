@@ -1,8 +1,8 @@
 # VGGFace-pytorch
 Pytorch version of VGG Face Descriptor
 
-The program is a fork from https://www.robots.ox.ac.uk/~albanie/pytorch-models.html.
-
+The files are modified from the originals found [here](https://www.robots.ox.ac.uk/~albanie/pytorch-models.html
+). 
 
 ## Pretrained
 Weights can be downloaded from https://www.robots.ox.ac.uk/~albanie/pytorch-models.html under **Vgg Face**
